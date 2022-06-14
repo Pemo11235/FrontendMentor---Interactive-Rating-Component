@@ -17,7 +17,7 @@ function App() {
           'Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!'
         }
         onSubmit={onSubmit}
-        from 'http://127.0.0.1:5500/assets/index.3cd92b9c.css'/>
+      />
     </div>
   )
 }
